@@ -35,10 +35,10 @@ This project explores **Scale-Invariant Feature Transform (SIFT)** for detecting
 
 ## 📧 Contact
 For any inquiries or collaboration opportunities, reach out to:
-📩 Email: your.email@example.com
+📩 Email: emad.k50000@gmail.com
 
 ## ⭐ Contribute
 Feel free to fork this repository, report issues, or submit pull requests to improve the project.
 
-🔹 **Developed by [Your Name] | Open Source & Research-Oriented**
+🔹 **Developed by [Emad K] | Open Source & Research-Oriented**
 
