@@ -16,7 +16,7 @@ This project explores **Scale-Invariant Feature Transform (SIFT)** for detecting
 📦 SIFT-Feature-Detection
 ├── 📜 machine_vision.ipynb   # Jupyter Notebook with full implementation
 ├── 📜 README.md              # Project documentation
-├── 📂 Blox.jpg              # Image dataset for testing
+├── 📂 Blox.jpg              # Image for testing
 ```
 
 
